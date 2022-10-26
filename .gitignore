@@ -1,2 +1,9 @@
-# virtual environment
+# virtual environments
 venv
+venvw
+
+# Jupyter checkpoints
+/.ipynb_checkpoints
+
+# data files
+/data
