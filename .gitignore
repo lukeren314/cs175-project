@@ -7,3 +7,6 @@ venvw
 
 # data files
 /data
+
+# pretrained models
+word2vec.wordvectors*
