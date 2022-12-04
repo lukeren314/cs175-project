@@ -9,4 +9,8 @@ venvw
 /data
 
 # pretrained models
-word2vec.wordvectors*
+doc2vec_model
+*.npy
+
+# images
+*.png
